@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|c:\\users\\roberto\\documents\\dsp\\guia2\\ejercicios\\ejercicios\\ejercicios\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79A00D35-7B56-4DBC-A521-8E75A83F00FB}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form4.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form4.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form4.cs",
+              "RelativeToolTip": "Ejercicios\\Form4.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:36:10.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form4.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form4.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T06:15:01.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form3.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form3.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form3.cs",
+              "RelativeToolTip": "Ejercicios\\Form3.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAIAwwFIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:15:17.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form3.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form3.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:06:51.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeToolTip": "Ejercicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T04:24:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form2.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form2.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form2.cs",
+              "RelativeToolTip": "Ejercicios\\Form2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA5wC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:46:17.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form2.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form2.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T03:39:39.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form1.cs",
+              "RelativeToolTip": "Ejercicios\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:57:26.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejercicios\\Ejercicios\\Ejercicios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:22:43.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

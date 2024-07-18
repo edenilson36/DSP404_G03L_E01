@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|c:\\users\\roberto\\documents\\dsp\\guia2\\ejemplos\\ejemplos\\frmulam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmulam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmfactorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmulam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmulam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmreves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmreves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmreves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmreves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmcesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmcesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmcesar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmcesar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\ejemplos\\frmcesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115EA735-1C70-4202-89A5-4A7A78F529DB}|Ejemplos\\Ejemplos.csproj|solutionrelative:ejemplos\\frmcesar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmCesar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmCesar.Designer.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmCesar.Designer.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmCesar.Designer.cs",
+              "RelativeToolTip": "Ejemplos\\frmCesar.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:27:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmULAM.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmULAM.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmULAM.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmULAM.cs",
+              "RelativeToolTip": "Ejemplos\\frmULAM.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:50:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmULAM.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmULAM.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmULAM.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmULAM.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplos\\frmULAM.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:29:07.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReves.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmReves.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmReves.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmReves.cs",
+              "RelativeToolTip": "Ejemplos\\frmReves.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwv2YAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:43:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReves.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmReves.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmReves.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmReves.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplos\\frmReves.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:37:26.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCesar.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmCesar.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmCesar.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmCesar.cs",
+              "RelativeToolTip": "Ejemplos\\frmCesar.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowF4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:48:44.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\Program.cs",
+              "RelativeToolTip": "Ejemplos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:48:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCesar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmCesar.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmCesar.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmCesar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplos\\frmCesar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:48:17.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmFactorial.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmFactorial.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmFactorial.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmFactorial.cs",
+              "RelativeToolTip": "Ejemplos\\frmFactorial.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv0oAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:07:56.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFactorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmFactorial.cs",
+              "RelativeDocumentMoniker": "Ejemplos\\frmFactorial.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia2\\Ejemplos\\Ejemplos\\frmFactorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplos\\frmFactorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T03:07:36.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

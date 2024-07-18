@@ -1,0 +1,13 @@
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.Properties.Resources.resources
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.csproj.GenerateResource.cache
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\bin\Debug\Ejemplos.exe.config
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\bin\Debug\Ejemplos.exe
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\bin\Debug\Ejemplos.pdb
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.exe
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.pdb
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.FrmReves.resources
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.frmULAM.resources
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.frmFactorial.resources
+C:\Users\Roberto\Documents\DSP\Guia2\Ejemplos\Ejemplos\obj\Debug\Ejemplos.frmCesar.resources
