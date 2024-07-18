@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8804D32-DB27-443B-8432-665A3F94200E}|ejercicio2\\ejercicio2.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\ejercicio2\\ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8804D32-DB27-443B-8432-665A3F94200E}|ejercicio2\\ejercicio2.csproj|solutionrelative:ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8804D32-DB27-443B-8432-665A3F94200E}|ejercicio2\\ejercicio2.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\ejercicio2\\ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8804D32-DB27-443B-8432-665A3F94200E}|ejercicio2\\ejercicio2.csproj|solutionrelative:ejercicio2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio2\\ejercicio2\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio2\\ejercicio2\\Form1.cs",
+              "RelativeToolTip": "ejercicio2\\Form1.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:40:53.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio2\\ejercicio2\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicio2\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio2\\ejercicio2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicio2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:49:05.962Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

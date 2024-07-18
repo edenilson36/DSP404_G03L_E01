@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB07746-E35E-4AFF-B7F8-3F12FFE72BC6}|ejercicio4\\ejercicio4.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\ejercicio4\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AB07746-E35E-4AFF-B7F8-3F12FFE72BC6}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB07746-E35E-4AFF-B7F8-3F12FFE72BC6}|ejercicio4\\ejercicio4.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\ejercicio4\\ejercicio4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB07746-E35E-4AFF-B7F8-3F12FFE72BC6}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB07746-E35E-4AFF-B7F8-3F12FFE72BC6}|ejercicio4\\ejercicio4.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\ejercicio4\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB07746-E35E-4AFF-B7F8-3F12FFE72BC6}|ejercicio4\\ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:47:14.479Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\ejercicio4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\ejercicio4\\Form1.Designer.cs",
+              "RelativeToolTip": "ejercicio4\\Form1.Designer.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwGcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:39:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "ejercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\ejercicio4\\ejercicio4\\Form1.cs",
+              "RelativeToolTip": "ejercicio4\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:28:24.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

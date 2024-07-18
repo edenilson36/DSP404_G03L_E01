@@ -1,0 +1,17 @@
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\bin\Debug\net8.0-windows\ejercicio complentarios.exe
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\bin\Debug\net8.0-windows\ejercicio complentarios.deps.json
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\bin\Debug\net8.0-windows\ejercicio complentarios.runtimeconfig.json
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\bin\Debug\net8.0-windows\ejercicio complentarios.dll
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\bin\Debug\net8.0-windows\ejercicio complentarios.pdb
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio_complentarios.FibonacciApp.resources
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.csproj.GenerateResource.cache
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.AssemblyInfoInputs.cache
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.AssemblyInfo.cs
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.dll
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\refint\ejercicio complentarios.dll
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.pdb
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio complentarios.genruntimeconfig.cache
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ref\ejercicio complentarios.dll
+C:\Users\juani\OneDrive\Escritorio\DSP404 G03L\ejercicio complentarios\ejercicio complentarios\obj\Debug\net8.0-windows\ejercicio_complentarios.Form2.resources
