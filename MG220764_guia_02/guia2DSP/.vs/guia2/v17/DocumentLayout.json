@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613E39CD-2D57-4C95-A550-DA674EFEE2FF}|guia2\\guia2.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia2\\guia2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{613E39CD-2D57-4C95-A550-DA674EFEE2FF}|guia2\\guia2.csproj|solutionrelative:guia2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613E39CD-2D57-4C95-A550-DA674EFEE2FF}|guia2\\guia2.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia2\\guia2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613E39CD-2D57-4C95-A550-DA674EFEE2FF}|guia2\\guia2.csproj|solutionrelative:guia2\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613E39CD-2D57-4C95-A550-DA674EFEE2FF}|guia2\\guia2.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia2\\guia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613E39CD-2D57-4C95-A550-DA674EFEE2FF}|guia2\\guia2.csproj|solutionrelative:guia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\guia2\\Form4.cs",
+              "RelativeDocumentMoniker": "guia2\\Form4.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\guia2\\Form4.cs",
+              "RelativeToolTip": "guia2\\Form4.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAhwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:35:58.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\guia2\\Program.cs",
+              "RelativeDocumentMoniker": "guia2\\Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\guia2\\Program.cs",
+              "RelativeToolTip": "guia2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:14:35.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\guia2\\Form4.cs",
+              "RelativeDocumentMoniker": "guia2\\Form4.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia2\\guia2\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "guia2\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:13:42.643Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
