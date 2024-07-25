@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\Downloads\\DSP404 G03L\\guia1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76A27FD-16D9-4A89-A4A1-4AB877C8C373}|guia1\\guia1.csproj|c:\\users\\juani\\downloads\\dsp404 g03l\\guia1\\guia1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C76A27FD-16D9-4A89-A4A1-4AB877C8C373}|guia1\\guia1.csproj|solutionrelative:guia1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76A27FD-16D9-4A89-A4A1-4AB877C8C373}|guia1\\guia1.csproj|c:\\users\\juani\\downloads\\dsp404 g03l\\guia1\\guia1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C76A27FD-16D9-4A89-A4A1-4AB877C8C373}|guia1\\guia1.csproj|solutionrelative:guia1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\Downloads\\DSP404 G03L\\guia1\\guia1\\Form1.cs",
+              "RelativeDocumentMoniker": "guia1\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\Downloads\\DSP404 G03L\\guia1\\guia1\\Form1.cs",
+              "RelativeToolTip": "guia1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:15:11.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\Downloads\\DSP404 G03L\\guia1\\guia1\\Form1.cs",
+              "RelativeDocumentMoniker": "guia1\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\Downloads\\DSP404 G03L\\guia1\\guia1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "guia1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:11:43.702Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

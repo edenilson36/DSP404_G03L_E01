@@ -1,0 +1,32 @@
+C:\Users\juani\source\repos\guia1\guia1\bin\Debug\net8.0-windows\guia1.exe
+C:\Users\juani\source\repos\guia1\guia1\bin\Debug\net8.0-windows\guia1.deps.json
+C:\Users\juani\source\repos\guia1\guia1\bin\Debug\net8.0-windows\guia1.runtimeconfig.json
+C:\Users\juani\source\repos\guia1\guia1\bin\Debug\net8.0-windows\guia1.dll
+C:\Users\juani\source\repos\guia1\guia1\bin\Debug\net8.0-windows\guia1.pdb
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.Form1.resources
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.csproj.GenerateResource.cache
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.AssemblyInfoInputs.cache
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.AssemblyInfo.cs
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.dll
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\refint\guia1.dll
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.pdb
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\guia1.genruntimeconfig.cache
+C:\Users\juani\source\repos\guia1\guia1\obj\Debug\net8.0-windows\ref\guia1.dll
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\bin\Debug\net8.0-windows\guia1.exe
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\bin\Debug\net8.0-windows\guia1.deps.json
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\bin\Debug\net8.0-windows\guia1.runtimeconfig.json
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\bin\Debug\net8.0-windows\guia1.dll
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\bin\Debug\net8.0-windows\guia1.pdb
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.Form1.resources
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.csproj.GenerateResource.cache
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.AssemblyInfoInputs.cache
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.AssemblyInfo.cs
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.csproj.CoreCompileInputs.cache
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.dll
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\refint\guia1.dll
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.pdb
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\guia1.genruntimeconfig.cache
+C:\Users\juani\Downloads\DSP404 G03L\guia1\guia1\obj\Debug\net8.0-windows\ref\guia1.dll
