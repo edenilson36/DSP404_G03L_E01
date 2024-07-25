@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\guia3\\guia3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184B92B-EDFF-4AC4-9B26-DFA85CFDAB35}|guia3\\guia3.csproj|solutionrelative:guia3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form3.cs",
+              "RelativeDocumentMoniker": "guia3\\Form3.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form3.cs",
+              "RelativeToolTip": "guia3\\Form3.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:34:37.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form3.cs",
+              "RelativeDocumentMoniker": "guia3\\Form3.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "guia3\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:33:26.686Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Program.cs",
+              "RelativeDocumentMoniker": "guia3\\Program.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Program.cs",
+              "RelativeToolTip": "guia3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:31:28.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form2.cs",
+              "RelativeDocumentMoniker": "guia3\\Form2.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "guia3\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:27:07.538Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form2.cs",
+              "RelativeDocumentMoniker": "guia3\\Form2.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form2.cs",
+              "RelativeToolTip": "guia3\\Form2.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAcwNQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:55:05.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form1.cs",
+              "RelativeDocumentMoniker": "guia3\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form1.cs",
+              "RelativeToolTip": "guia3\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:46:25.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form1.cs",
+              "RelativeDocumentMoniker": "guia3\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\guia3\\guia3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "guia3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:20:13.604Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
