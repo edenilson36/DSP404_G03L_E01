@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\roberto\\documents\\dsp\\ejemplo1\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\roberto\\documents\\dsp\\ejemplo1\\ejemplo1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\roberto\\documents\\dsp\\ejemplo1\\ejemplo1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\roberto\\documents\\dsp\\ejemplo1\\ejemplo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\roberto\\documents\\dsp\\ejemplo1\\ejemplo1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3511DE2-FF39-4D13-A548-A27C790C3B97}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 219,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form3.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form3.cs",
+              "RelativeToolTip": "Ejemplo1\\Form3.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAiwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:20:25.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form3.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo1\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:19:08.879Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Program.cs",
+              "RelativeToolTip": "Ejemplo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:15:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:15:16.369Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form2.cs",
+              "RelativeDocumentMoniker": "Ejemplo1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Ejemplo1\\Ejemplo1\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo1\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:14:07.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

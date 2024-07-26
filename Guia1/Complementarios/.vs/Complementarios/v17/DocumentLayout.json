@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|d:\\ciclo 2\\dsp\\ejemplo1\\complementarios\\complementarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|solutionrelative:complementarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|d:\\ciclo 2\\dsp\\ejemplo1\\complementarios\\complementarios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|solutionrelative:complementarios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|d:\\ciclo 2\\dsp\\ejemplo1\\complementarios\\complementarios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|solutionrelative:complementarios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|d:\\ciclo 2\\dsp\\ejemplo1\\complementarios\\complementarios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|solutionrelative:complementarios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|d:\\ciclo 2\\dsp\\ejemplo1\\complementarios\\complementarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|solutionrelative:complementarios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|d:\\ciclo 2\\dsp\\ejemplo1\\complementarios\\complementarios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7FAB8B-83D6-428D-8BE2-8CB4498F0A9E}|Complementarios\\Complementarios.csproj|solutionrelative:complementarios\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form3.cs",
+              "RelativeDocumentMoniker": "Complementarios\\Form3.cs",
+              "ToolTip": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form3.cs",
+              "RelativeToolTip": "Complementarios\\Form3.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:44:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form3.cs",
+              "RelativeDocumentMoniker": "Complementarios\\Form3.cs",
+              "ToolTip": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Complementarios\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:42:39.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form2.cs",
+              "RelativeDocumentMoniker": "Complementarios\\Form2.cs",
+              "ToolTip": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Complementarios\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:35:38.243Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form1.cs",
+              "RelativeDocumentMoniker": "Complementarios\\Form1.cs",
+              "ToolTip": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Complementarios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:35:20.927Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Program.cs",
+              "RelativeDocumentMoniker": "Complementarios\\Program.cs",
+              "ToolTip": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Program.cs",
+              "RelativeToolTip": "Complementarios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:34:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Complementarios\\Form1.Designer.cs",
+              "ToolTip": "D:\\CICLO 2\\DSP\\Ejemplo1\\Complementarios\\Complementarios\\Form1.Designer.cs",
+              "RelativeToolTip": "Complementarios\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:33:58.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
