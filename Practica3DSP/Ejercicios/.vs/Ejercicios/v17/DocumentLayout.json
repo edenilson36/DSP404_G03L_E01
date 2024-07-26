@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|c:\\users\\roberto\\documents\\dsp\\practica3dsp\\ejercicios\\ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A0BEA6-0DC8-4176-95F2-317AE8FBFDEE}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form3.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form3.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form3.cs",
+              "RelativeToolTip": "Ejercicios\\Form3.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:14:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form3.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form3.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:08:46.747Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeToolTip": "Ejercicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:34:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form2.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form2.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form2.cs",
+              "RelativeToolTip": "Ejercicios\\Form2.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAIAwwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:34:08.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form2.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form2.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:22:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form1.cs",
+              "RelativeToolTip": "Ejercicios\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:04:27.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Practica3DSP\\Ejercicios\\Ejercicios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:58:05.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

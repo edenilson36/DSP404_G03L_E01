@@ -1,0 +1,12 @@
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form1.resources
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form2.resources
+C:\Users\Roberto\Documents\DSP\Practica3DSP\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form3.resources
