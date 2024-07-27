@@ -1,0 +1,7 @@
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.Form1.resources
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.Form2.resources
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.csproj.GenerateResource.cache
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.AssemblyInfoInputs.cache
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.AssemblyInfo.cs
+C:\Users\omara\OneDrive\Documentos\Guias de DASP C#\Practica3DSP\practica3DSP\practica3DSP\obj\Debug\net8.0-windows\practica3DSP.csproj.CoreCompileInputs.cache
