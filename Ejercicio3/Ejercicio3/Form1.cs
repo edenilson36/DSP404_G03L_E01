@@ -26,6 +26,13 @@ namespace Ejercicio3
 
         }
 
+        public class Tareas
+        {
+            public List<string> Pendientes { get; set; } = new List<string>();
+            public List<string> Completadas { get; set; } = new List<string>();
+
+        }
+
         private void btnAgregarTarea_Click(object sender, EventArgs e)
         {
             string nombreTarea = txtNombreTarea.Text.Trim();
@@ -83,12 +90,12 @@ namespace Ejercicio3
 
         private void btnMarcarCompletada_Click(object sender, EventArgs e)
         {
-            if (lbTareasPendientes.SelectIndex ! = -1)
+            if (lbTareasPendientes.SelectedIndex != -1)
             {
                 string tarea = lbTareasPendientes.SelectedItem.ToString();
-                lbTareasPendientes.Items.Remove(Tarea);
-                todasLasTareasPendientes.Remove(Tarea);
-                lbTareasCompletadas.Items.Add(Tarea);
+                lbTareasPendientes.Items.Remove(tarea);
+                todasLasTareasPendientes.Remove(tarea);
+                lbTareasCompletadas.Items.Add(tarea);
                 todasLasTareasCompletadas.Add(tarea);
             }
             else
@@ -100,7 +107,7 @@ namespace Ejercicio3
         private void btnGuardar_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = "XML files|*.xml";
+            saveFileDialog.Filter = "XML Files|*.xml";
 
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
@@ -109,7 +116,7 @@ namespace Ejercicio3
                     Tareas todasTareas = new Tareas
                     {
                         Pendientes = lbTareasPendientes.Items.Cast<string>().ToList(),
-                        TareasCompletadas = lbTareasCompletadas.Items.Cast<string>().ToList()
+                        Completadas = lbTareasCompletadas.Items.Cast<string>().ToList()
                     };
 
                     System.Xml.Serialization.XmlSerializer writer = 
@@ -126,6 +133,46 @@ namespace Ejercicio3
                     MessageBox.Show($"Ocurrió un error al guardar las tareas: {ex.Message}");
                 }
             }
+        }
+
+        private void btnCargar_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "XML Files|*.xml";
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                try
+                {
+                    System.Xml.Serialization.XmlSerializer reader =
+                        new System.Xml.Serialization.XmlSerializer(typeof(Tareas));
+                    using (System.IO.StreamReader file = new System.IO.StreamReader(openFileDialog.FileName))
+                    {
+                        Tareas todasTareas = (Tareas)reader.Deserialize(file);
+                        lbTareasPendientes.Items.Clear();
+                        lbTareasCompletadas.Items.Clear();
+                        lbTareasPendientes.Items.AddRange(todasTareas.Pendientes.ToArray());
+                        lbTareasCompletadas.Items.AddRange(todasTareas.Completadas.ToArray());
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Ocurrio un error al cargar las tareaa: {ex.Message}");
+                }
+            }
+
+        }
+
+        private void btnFiltrarTareas_Click(object sender, EventArgs e)
+        {
+            DateTime hoy = DateTime.Today;
+            DateTime fechaLimite = hoy.AddDays(7); //7 dias
+
+            var tareasFiltradas = todasLasTareasPendientes
+                .Where(t => DateTime.Parse(t.Split(new[] { "(Límite: " }, StringSplitOptions.None)[1].Replace(")", "")) <= fechaLimite)
+                .ToList();
+
+            lbTareasPendientes.Items.Clear();
+            lbTareasPendientes.Items.AddRange(tareasFiltradas.ToArray());
         }
     }
 }

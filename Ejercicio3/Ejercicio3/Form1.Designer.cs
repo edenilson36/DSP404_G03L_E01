@@ -100,6 +100,7 @@
             this.btnFiltrarTareas.TabIndex = 5;
             this.btnFiltrarTareas.Text = "Filtrar Tareas por Fecha";
             this.btnFiltrarTareas.UseVisualStyleBackColor = true;
+            this.btnFiltrarTareas.Click += new System.EventHandler(this.btnFiltrarTareas_Click);
             // 
             // groupBox1
             // 
@@ -228,6 +229,7 @@
             this.btnCargar.TabIndex = 9;
             this.btnCargar.Text = "Cargar";
             this.btnCargar.UseVisualStyleBackColor = true;
+            this.btnCargar.Click += new System.EventHandler(this.btnCargar_Click);
             // 
             // Form1
             // 
