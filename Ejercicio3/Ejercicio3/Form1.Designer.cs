@@ -35,15 +35,15 @@
             this.btnAgregarTarea = new System.Windows.Forms.Button();
             this.btnFiltrarTareas = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.lbTareasPendientes = new System.Windows.Forms.ListBox();
-            this.lbTareasCompletadas = new System.Windows.Forms.ListBox();
-            this.btnOrdenarPorNombre = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.btnEliminarTarea = new System.Windows.Forms.Button();
-            this.btnEditarTarea = new System.Windows.Forms.Button();
             this.btnMarcarCompletada = new System.Windows.Forms.Button();
+            this.btnEditarTarea = new System.Windows.Forms.Button();
+            this.btnEliminarTarea = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.btnOrdenarPorNombre = new System.Windows.Forms.Button();
+            this.lbTareasCompletadas = new System.Windows.Forms.ListBox();
+            this.lbTareasPendientes = new System.Windows.Forms.ListBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.btnMostrarTodasTareas = new System.Windows.Forms.Button();
             this.btnGuardar = new System.Windows.Forms.Button();
             this.btnCargar = new System.Windows.Forms.Button();
@@ -119,48 +119,34 @@
             this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             // 
-            // label3
+            // btnMarcarCompletada
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(21, 29);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(96, 13);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Tareas Pendientes";
+            this.btnMarcarCompletada.Location = new System.Drawing.Point(332, 263);
+            this.btnMarcarCompletada.Name = "btnMarcarCompletada";
+            this.btnMarcarCompletada.Size = new System.Drawing.Size(93, 23);
+            this.btnMarcarCompletada.TabIndex = 8;
+            this.btnMarcarCompletada.Text = "Editar Tarea";
+            this.btnMarcarCompletada.UseVisualStyleBackColor = true;
             // 
-            // label4
+            // btnEditarTarea
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(321, 29);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(104, 13);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Tareas Completadas";
+            this.btnEditarTarea.Location = new System.Drawing.Point(182, 263);
+            this.btnEditarTarea.Name = "btnEditarTarea";
+            this.btnEditarTarea.Size = new System.Drawing.Size(93, 23);
+            this.btnEditarTarea.TabIndex = 7;
+            this.btnEditarTarea.Text = "Editar Tarea";
+            this.btnEditarTarea.UseVisualStyleBackColor = true;
+            this.btnEditarTarea.Click += new System.EventHandler(this.btnEditarTarea_Click);
             // 
-            // lbTareasPendientes
+            // btnEliminarTarea
             // 
-            this.lbTareasPendientes.FormattingEnabled = true;
-            this.lbTareasPendientes.Location = new System.Drawing.Point(24, 60);
-            this.lbTareasPendientes.Name = "lbTareasPendientes";
-            this.lbTareasPendientes.Size = new System.Drawing.Size(175, 121);
-            this.lbTareasPendientes.TabIndex = 2;
-            // 
-            // lbTareasCompletadas
-            // 
-            this.lbTareasCompletadas.FormattingEnabled = true;
-            this.lbTareasCompletadas.Location = new System.Drawing.Point(253, 60);
-            this.lbTareasCompletadas.Name = "lbTareasCompletadas";
-            this.lbTareasCompletadas.Size = new System.Drawing.Size(175, 121);
-            this.lbTareasCompletadas.TabIndex = 3;
-            // 
-            // btnOrdenarPorNombre
-            // 
-            this.btnOrdenarPorNombre.Location = new System.Drawing.Point(24, 204);
-            this.btnOrdenarPorNombre.Name = "btnOrdenarPorNombre";
-            this.btnOrdenarPorNombre.Size = new System.Drawing.Size(113, 23);
-            this.btnOrdenarPorNombre.TabIndex = 4;
-            this.btnOrdenarPorNombre.Text = "Ordenar Por Nombre";
-            this.btnOrdenarPorNombre.UseVisualStyleBackColor = true;
+            this.btnEliminarTarea.Location = new System.Drawing.Point(24, 263);
+            this.btnEliminarTarea.Name = "btnEliminarTarea";
+            this.btnEliminarTarea.Size = new System.Drawing.Size(93, 23);
+            this.btnEliminarTarea.TabIndex = 6;
+            this.btnEliminarTarea.Text = "Eliminar Tarea";
+            this.btnEliminarTarea.UseVisualStyleBackColor = true;
+            this.btnEliminarTarea.Click += new System.EventHandler(this.btnEliminarTarea_Click);
             // 
             // button1
             // 
@@ -171,32 +157,48 @@
             this.button1.Text = "Ordenar Por Fecha Límite";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // btnEliminarTarea
+            // btnOrdenarPorNombre
             // 
-            this.btnEliminarTarea.Location = new System.Drawing.Point(24, 263);
-            this.btnEliminarTarea.Name = "btnEliminarTarea";
-            this.btnEliminarTarea.Size = new System.Drawing.Size(93, 23);
-            this.btnEliminarTarea.TabIndex = 6;
-            this.btnEliminarTarea.Text = "Eliminar Tarea";
-            this.btnEliminarTarea.UseVisualStyleBackColor = true;
+            this.btnOrdenarPorNombre.Location = new System.Drawing.Point(24, 204);
+            this.btnOrdenarPorNombre.Name = "btnOrdenarPorNombre";
+            this.btnOrdenarPorNombre.Size = new System.Drawing.Size(113, 23);
+            this.btnOrdenarPorNombre.TabIndex = 4;
+            this.btnOrdenarPorNombre.Text = "Ordenar Por Nombre";
+            this.btnOrdenarPorNombre.UseVisualStyleBackColor = true;
             // 
-            // btnEditarTarea
+            // lbTareasCompletadas
             // 
-            this.btnEditarTarea.Location = new System.Drawing.Point(182, 263);
-            this.btnEditarTarea.Name = "btnEditarTarea";
-            this.btnEditarTarea.Size = new System.Drawing.Size(93, 23);
-            this.btnEditarTarea.TabIndex = 7;
-            this.btnEditarTarea.Text = "Editar Tarea";
-            this.btnEditarTarea.UseVisualStyleBackColor = true;
+            this.lbTareasCompletadas.FormattingEnabled = true;
+            this.lbTareasCompletadas.Location = new System.Drawing.Point(253, 60);
+            this.lbTareasCompletadas.Name = "lbTareasCompletadas";
+            this.lbTareasCompletadas.Size = new System.Drawing.Size(175, 121);
+            this.lbTareasCompletadas.TabIndex = 3;
             // 
-            // btnMarcarCompletada
+            // lbTareasPendientes
             // 
-            this.btnMarcarCompletada.Location = new System.Drawing.Point(332, 263);
-            this.btnMarcarCompletada.Name = "btnMarcarCompletada";
-            this.btnMarcarCompletada.Size = new System.Drawing.Size(93, 23);
-            this.btnMarcarCompletada.TabIndex = 8;
-            this.btnMarcarCompletada.Text = "Editar Tarea";
-            this.btnMarcarCompletada.UseVisualStyleBackColor = true;
+            this.lbTareasPendientes.FormattingEnabled = true;
+            this.lbTareasPendientes.Location = new System.Drawing.Point(24, 60);
+            this.lbTareasPendientes.Name = "lbTareasPendientes";
+            this.lbTareasPendientes.Size = new System.Drawing.Size(175, 121);
+            this.lbTareasPendientes.TabIndex = 2;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(321, 29);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(104, 13);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Tareas Completadas";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(21, 29);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(96, 13);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Tareas Pendientes";
             // 
             // btnMostrarTodasTareas
             // 
