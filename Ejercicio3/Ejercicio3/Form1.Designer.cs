@@ -121,12 +121,13 @@
             // 
             // btnMarcarCompletada
             // 
-            this.btnMarcarCompletada.Location = new System.Drawing.Point(332, 263);
+            this.btnMarcarCompletada.Location = new System.Drawing.Point(315, 263);
             this.btnMarcarCompletada.Name = "btnMarcarCompletada";
-            this.btnMarcarCompletada.Size = new System.Drawing.Size(93, 23);
+            this.btnMarcarCompletada.Size = new System.Drawing.Size(110, 23);
             this.btnMarcarCompletada.TabIndex = 8;
-            this.btnMarcarCompletada.Text = "Editar Tarea";
+            this.btnMarcarCompletada.Text = "Marcar Completada";
             this.btnMarcarCompletada.UseVisualStyleBackColor = true;
+            this.btnMarcarCompletada.Click += new System.EventHandler(this.btnMarcarCompletada_Click);
             // 
             // btnEditarTarea
             // 
@@ -217,6 +218,7 @@
             this.btnGuardar.TabIndex = 8;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // btnCargar
             // 

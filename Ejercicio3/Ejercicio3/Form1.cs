@@ -13,6 +13,8 @@ namespace Ejercicio3
     public partial class Form1 : Form
     {
         private List<string> todasLasTareasPendientes = new List<string>();
+        private List<string> todasLasTareasCompletadas = new List<string>();
+
 
         public Form1()
         {
@@ -76,6 +78,53 @@ namespace Ejercicio3
             else
             {
                 MessageBox.Show("Selccione una tarea para editar.");
+            }
+        }
+
+        private void btnMarcarCompletada_Click(object sender, EventArgs e)
+        {
+            if (lbTareasPendientes.SelectIndex ! = -1)
+            {
+                string tarea = lbTareasPendientes.SelectedItem.ToString();
+                lbTareasPendientes.Items.Remove(Tarea);
+                todasLasTareasPendientes.Remove(Tarea);
+                lbTareasCompletadas.Items.Add(Tarea);
+                todasLasTareasCompletadas.Add(tarea);
+            }
+            else
+            {
+                MessageBox.Show("Seleccione una tarea para marcar como completada.");
+            }
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
+            saveFileDialog.Filter = "XML files|*.xml";
+
+            if (saveFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                try
+                {
+                    Tareas todasTareas = new Tareas
+                    {
+                        Pendientes = lbTareasPendientes.Items.Cast<string>().ToList(),
+                        TareasCompletadas = lbTareasCompletadas.Items.Cast<string>().ToList()
+                    };
+
+                    System.Xml.Serialization.XmlSerializer writer = 
+                        new System.Xml.Serialization.XmlSerializer(typeof(Tareas));
+                    using (System.IO.FileStream file = System.IO.File.Create(saveFileDialog.FileName))
+                    {
+                        writer.Serialize(file, todasTareas);
+                    }
+
+                    MessageBox.Show("Tareas guardadas correctamente.");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Ocurrió un error al guardar las tareas: {ex.Message}");
+                }
             }
         }
     }
