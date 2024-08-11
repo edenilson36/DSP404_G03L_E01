@@ -158,6 +158,7 @@
             this.button1.TabIndex = 5;
             this.button1.Text = "Ordenar Por Fecha Límite";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnOrdenarPorNombre
             // 
@@ -167,6 +168,7 @@
             this.btnOrdenarPorNombre.TabIndex = 4;
             this.btnOrdenarPorNombre.Text = "Ordenar Por Nombre";
             this.btnOrdenarPorNombre.UseVisualStyleBackColor = true;
+            this.btnOrdenarPorNombre.Click += new System.EventHandler(this.btnOrdenarPorNombre_Click);
             // 
             // lbTareasCompletadas
             // 

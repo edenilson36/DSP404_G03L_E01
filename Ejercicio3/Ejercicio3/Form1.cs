@@ -174,5 +174,27 @@ namespace Ejercicio3
             lbTareasPendientes.Items.Clear();
             lbTareasPendientes.Items.AddRange(tareasFiltradas.ToArray());
         }
+
+        private void btnOrdenarPorNombre_Click(object sender, EventArgs e)
+        {
+            var tareasOrdenadas = lbTareasPendientes.Items.Cast<string>()
+            .OrderBy(t => t.Split(new[] { " (Límite: " }, StringSplitOptions.None)[0])
+            .ToList();
+
+            lbTareasPendientes.Items.Clear();
+            lbTareasPendientes.Items.AddRange(tareasOrdenadas.ToArray());
+        }
+
+
+        // Este es "Ordenar por Fecha Limite" (se me olvidó ponerle nombre al boton)
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var tareasOrdenadas = lbTareasPendientes.Items.Cast<string>()
+            .OrderBy(t => DateTime.Parse(t.Split(new[] { "(Límite: " }, StringSplitOptions.None)[1].Replace(")", "")))
+            .ToList();
+
+            lbTareasPendientes.Items.Clear();
+            lbTareasPendientes.Items.AddRange(tareasOrdenadas.ToArray());
+        }
     }
 }
