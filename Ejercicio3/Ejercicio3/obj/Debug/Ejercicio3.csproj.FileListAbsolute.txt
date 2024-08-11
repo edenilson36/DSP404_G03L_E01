@@ -1,0 +1,10 @@
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Edenilson Campos\Documents\GitHub\DSP404_G03L_E01\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

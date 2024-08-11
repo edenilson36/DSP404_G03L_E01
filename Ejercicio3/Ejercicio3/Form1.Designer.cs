@@ -212,6 +212,7 @@
             this.btnMostrarTodasTareas.TabIndex = 7;
             this.btnMostrarTodasTareas.Text = "Mostrar Todas las Tareas";
             this.btnMostrarTodasTareas.UseVisualStyleBackColor = true;
+            this.btnMostrarTodasTareas.Click += new System.EventHandler(this.btnMostrarTodasTareas_Click);
             // 
             // btnGuardar
             // 
@@ -238,7 +239,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.ClientSize = new System.Drawing.Size(577, 706);
+            this.ClientSize = new System.Drawing.Size(577, 656);
             this.Controls.Add(this.btnCargar);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.btnMostrarTodasTareas);

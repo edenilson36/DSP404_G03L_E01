@@ -51,7 +51,7 @@ namespace Ejercicio3
 
             string tarea = $"{nombreTarea} (Límite: {dtpFechaLimite.Value.ToShortDateString()})";
             lbTareasPendientes.Items.Add(tarea);
-            todasLasTareasPendientes.Add(tarea); //almacena la tarea en la lista compelta
+            todasLasTareasPendientes.Add(tarea); 
 
             txtNombreTarea.BackColor = SystemColors.Window;
             txtNombreTarea.Clear();
@@ -63,7 +63,7 @@ namespace Ejercicio3
             {
                 string tareaSeleccionada = lbTareasPendientes.SelectedItem.ToString();
                 lbTareasPendientes.Items.Remove(tareaSeleccionada);
-                todasLasTareasPendientes.Remove(tareaSeleccionada); //elimina lar tarea de la lista completa
+                todasLasTareasPendientes.Remove(tareaSeleccionada); 
             }
             else
             {
@@ -84,7 +84,7 @@ namespace Ejercicio3
             }
             else
             {
-                MessageBox.Show("Selccione una tarea para editar.");
+                MessageBox.Show("Seleccione una tarea para editar.");
             }
         }
 
@@ -106,6 +106,13 @@ namespace Ejercicio3
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
+            if (!todasLasTareasCompletadas.Any() && !todasLasTareasCompletadas.Any())
+            {
+                MessageBox.Show("No hay tareas para guardar. Por favor agregue tareas antes de guardar.");
+                return;
+            }
+
+
             SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Filter = "XML Files|*.xml";
 
@@ -156,7 +163,7 @@ namespace Ejercicio3
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Ocurrio un error al cargar las tareaa: {ex.Message}");
+                    MessageBox.Show($"Ocurrió un error al cargar las tareaa: {ex.Message}");
                 }
             }
 
@@ -165,7 +172,7 @@ namespace Ejercicio3
         private void btnFiltrarTareas_Click(object sender, EventArgs e)
         {
             DateTime hoy = DateTime.Today;
-            DateTime fechaLimite = hoy.AddDays(7); //7 dias
+            DateTime fechaLimite = hoy.AddDays(7); 
 
             var tareasFiltradas = todasLasTareasPendientes
                 .Where(t => DateTime.Parse(t.Split(new[] { "(Límite: " }, StringSplitOptions.None)[1].Replace(")", "")) <= fechaLimite)
@@ -195,6 +202,12 @@ namespace Ejercicio3
 
             lbTareasPendientes.Items.Clear();
             lbTareasPendientes.Items.AddRange(tareasOrdenadas.ToArray());
+        }
+
+        private void btnMostrarTodasTareas_Click(object sender, EventArgs e)
+        {
+            lbTareasPendientes.Items.Clear(); 
+            lbTareasPendientes.Items.AddRange(todasLasTareasPendientes.ToArray()); //solo las tareas pendientes
         }
     }
 }
