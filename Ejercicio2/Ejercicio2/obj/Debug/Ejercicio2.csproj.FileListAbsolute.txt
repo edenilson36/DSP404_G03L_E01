@@ -1,0 +1,10 @@
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\omara\OneDrive\Documentos\DSP C#\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
