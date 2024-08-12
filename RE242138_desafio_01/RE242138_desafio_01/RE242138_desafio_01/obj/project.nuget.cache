@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lgTHUUARbjRagUIQnXgmYg21iAmdAn7IFpdJTtEexaoS7iAkRTrqmJR3Pb0IEsGKauFQ8txWrLv0tW6TWftKyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE242138_desafio_01\\RE242138_desafio_01\\RE242138_desafio_01\\RE242138_desafio_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juani\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\juani\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+José Manuel Reyes Echeverria
+RE242138
+
+
+
+para este ejercicio necesita saber que fue creado base a Windows form versión de NET.07 también al ingresar al programa necesitara ingresar usuario y contraseña las cueles son 
+Usuario: usuario
+contraseña:password
+el programa es algo sencillo y no es muy complejo en el video se le explica el código y el funcionamiento del programa muchas gracias 
+
+Link del video en Google drive:   https://drive.google.com/file/d/1FakgLBxdx0DcmDmmmSQ40_1ghVYrDqB5/view?usp=sharing
