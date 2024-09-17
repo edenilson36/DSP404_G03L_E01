@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Verificar Saldo";
+}
+
+<article class="middle">
+    <h2>Bienvenido</h2>
+    Innovando las transacciones en línea, ponemos a su disposición el cajero ATM online
+    donde podrá realizar sus pagos y transferencias en línea de una forma rápida y fácil
+    siempre con la calidad y la confianza que nos caracterizan. Realice sus transacciones
+    desde la comodidad de su hogar las 24 horas del día los 7 días de la semana.
+
+    <div class="credenciales">
+        <div class="bloque">
+            <label class="etiqueta">Tarjeta #:</label>
+            <label class="control">@ViewBag.NumeroTarjeta</label>
+        </div>
+        <div class="clear"></div>
+        <div class="bloque">
+            <label class="etiqueta">Saldo:</label>
+            <label class="control">$@ViewBag.Saldo</label>
+        </div>
+        <div class="clear"></div>
+    </div>
+</article>
+
+<nav class="right">
+    <ul>
+        <li>@Html.ActionLink("Transferencias nacionales", "Nacionales", "Transferencias", new { sNumeroTarjeta = ViewBag.NumeroTarjeta, sSaldo = ViewBag.Saldo }, null)</li>
+        <li>@Html.ActionLink("Transferencias internacionales", "Internacionales", "Transferencias", new { sNumeroTarjeta = ViewBag.NumeroTarjeta, sSaldo = ViewBag.Saldo }, null)</li>
+        <li>@Html.ActionLink("Pagos de Servicios", "Pagos", "Servicios")</li>
+        <li>@Html.ActionLink("Verificar saldos", "Verificar", "Saldo")</li>
+    </ul>
+</nav>
+
+<footer>
+    <a href="http://www.udb.edu.sv">Universidad Don Bosco</a>
+</footer>
