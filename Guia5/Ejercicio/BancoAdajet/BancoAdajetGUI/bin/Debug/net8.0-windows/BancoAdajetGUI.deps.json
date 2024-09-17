@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BancoAdajetGUI/1.0.0": {
+        "dependencies": {
+          "BancoAdajet": "1.0.0"
+        },
+        "runtime": {
+          "BancoAdajetGUI.dll": {}
+        }
+      },
+      "BancoAdajet/1.0.0": {
+        "runtime": {
+          "BancoAdajet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BancoAdajetGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BancoAdajet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

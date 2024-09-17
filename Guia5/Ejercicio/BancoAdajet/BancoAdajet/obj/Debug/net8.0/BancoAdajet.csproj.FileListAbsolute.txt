@@ -1,0 +1,11 @@
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\bin\Debug\net8.0\BancoAdajet.deps.json
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\bin\Debug\net8.0\BancoAdajet.dll
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\bin\Debug\net8.0\BancoAdajet.pdb
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\BancoAdajet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\BancoAdajet.AssemblyInfoInputs.cache
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\BancoAdajet.AssemblyInfo.cs
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\BancoAdajet.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\BancoAdajet.dll
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\refint\BancoAdajet.dll
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\BancoAdajet.pdb
+C:\Users\Roberto\Documents\DSP\Guia5\Ejercicio\BancoAdajet\BancoAdajet\obj\Debug\net8.0\ref\BancoAdajet.dll

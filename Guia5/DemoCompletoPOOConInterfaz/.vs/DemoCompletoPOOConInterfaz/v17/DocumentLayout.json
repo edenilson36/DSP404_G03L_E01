@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3126C575-0416-43BE-A0E2-95C198363FDD}|BL\\BL.csproj|c:\\users\\roberto\\documents\\dsp\\guia5\\democompletopooconinterfaz\\bl\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3126C575-0416-43BE-A0E2-95C198363FDD}|BL\\BL.csproj|solutionrelative:bl\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3126C575-0416-43BE-A0E2-95C198363FDD}|BL\\BL.csproj|c:\\users\\roberto\\documents\\dsp\\guia5\\democompletopooconinterfaz\\bl\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3126C575-0416-43BE-A0E2-95C198363FDD}|BL\\BL.csproj|solutionrelative:bl\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D90050-DCEA-459D-A241-D3C30D7179FA}|GUI\\GUI.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77D90050-DCEA-459D-A241-D3C30D7179FA}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D90050-DCEA-459D-A241-D3C30D7179FA}|GUI\\GUI.csproj|c:\\users\\roberto\\documents\\dsp\\guia5\\democompletopooconinterfaz\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D90050-DCEA-459D-A241-D3C30D7179FA}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAtwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:25:59.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\GUI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:05:47.017Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\BL\\Venta.cs",
+              "RelativeDocumentMoniker": "BL\\Venta.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\BL\\Venta.cs",
+              "RelativeToolTip": "BL\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:47:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\BL\\Producto.cs",
+              "RelativeDocumentMoniker": "BL\\Producto.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\DemoCompletoPOOConInterfaz\\BL\\Producto.cs",
+              "RelativeToolTip": "BL\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:45:21.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD2F94-629A-4615-AD0D-42ED6868388C}|BancoAdajetGUI\\BancoAdajetGUI.csproj|c:\\users\\roberto\\documents\\dsp\\guia5\\ejercicio\\bancoadajet\\bancoadajetgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD2F94-629A-4615-AD0D-42ED6868388C}|BancoAdajetGUI\\BancoAdajetGUI.csproj|solutionrelative:bancoadajetgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650499C4-57FD-455B-BC00-A24FAF07A0A0}|BancoAdajet\\BancoAdajet.csproj|c:\\users\\roberto\\documents\\dsp\\guia5\\ejercicio\\bancoadajet\\bancoadajet\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650499C4-57FD-455B-BC00-A24FAF07A0A0}|BancoAdajet\\BancoAdajet.csproj|solutionrelative:bancoadajet\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD2F94-629A-4615-AD0D-42ED6868388C}|BancoAdajetGUI\\BancoAdajetGUI.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\bancoadajetgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3AD2F94-629A-4615-AD0D-42ED6868388C}|BancoAdajetGUI\\BancoAdajetGUI.csproj|solutionrelative:bancoadajetgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\BancoAdajetGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "BancoAdajetGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\BancoAdajetGUI\\Form1.cs",
+              "RelativeToolTip": "BancoAdajetGUI\\Form1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwGAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:42:26.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\BancoAdajetGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "BancoAdajetGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\BancoAdajetGUI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "BancoAdajetGUI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:33:16.629Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\BancoAdajet\\Cuenta.cs",
+              "RelativeDocumentMoniker": "BancoAdajet\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Guia5\\Ejercicio\\BancoAdajet\\BancoAdajet\\Cuenta.cs",
+              "RelativeToolTip": "BancoAdajet\\Cuenta.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA9wEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:57:24.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
