@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\re24213_guia_06\\guia6\\guia6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\re24213_guia_06\\guia6\\guia6\\artr\u00F3podo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\artr\u00F3podo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\re24213_guia_06\\guia6\\guia6\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\pez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\re24213_guia_06\\guia6\\guia6\\reptil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\reptil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\re24213_guia_06\\guia6\\guia6\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|c:\\users\\juani\\onedrive\\escritorio\\dsp404 g03l\\re24213_guia_06\\guia6\\guia6\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E5CF87-3883-4ECF-A909-7086B66AD068}|guia6\\guia6.csproj|solutionrelative:guia6\\animales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Form1.cs",
+              "RelativeDocumentMoniker": "guia6\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Form1.cs",
+              "RelativeToolTip": "guia6\\Form1.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:46:00.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Form1.cs",
+              "RelativeDocumentMoniker": "guia6\\Form1.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Form1.cs [Design]",
+              "RelativeToolTip": "guia6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:41:45.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artr\u00F3podo.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Artr\u00F3podo.cs",
+              "RelativeDocumentMoniker": "guia6\\Artr\u00F3podo.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Artr\u00F3podo.cs",
+              "RelativeToolTip": "guia6\\Artr\u00F3podo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:45:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pez.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Pez.cs",
+              "RelativeDocumentMoniker": "guia6\\Pez.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Pez.cs",
+              "RelativeToolTip": "guia6\\Pez.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:45:39.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reptil.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Reptil.cs",
+              "RelativeDocumentMoniker": "guia6\\Reptil.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Reptil.cs",
+              "RelativeToolTip": "guia6\\Reptil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:45:22.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Mamifero.cs",
+              "RelativeDocumentMoniker": "guia6\\Mamifero.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Mamifero.cs",
+              "RelativeToolTip": "guia6\\Mamifero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:44:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animales.cs",
+              "DocumentMoniker": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Animales.cs",
+              "RelativeDocumentMoniker": "guia6\\Animales.cs",
+              "ToolTip": "C:\\Users\\juani\\OneDrive\\Escritorio\\DSP404 G03L\\RE24213_GUIA_06\\guia6\\guia6\\Animales.cs",
+              "RelativeToolTip": "guia6\\Animales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:44:29.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
