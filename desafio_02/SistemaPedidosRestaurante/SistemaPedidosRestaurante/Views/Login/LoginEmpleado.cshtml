@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Login Empleado";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login Empleado | Sistema de Pedidos</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #e8f5e9; 
+
+        .login-card {
+            background-color: #c8e6c9; 
+            border: 1px solid #2e7d32; 
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #1b5e20; 
+        }
+
+        label {
+            color: #2e7d32; 
+        }
+
+        .btn-primary {
+            background-color: #388e3c; 
+            border-color: #2e7d32;
+        }
+
+            .btn-primary:hover {
+                background-color: #2e7d32; 
+                border-color: #1b5e20;
+            }
+
+        footer {
+            margin-top: 20px;
+            color: #4e342e; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+        <div class="login-card">
+            <h2 class="text-center">Login Empleado</h2>
+
+            @if (ViewBag.Error != null)
+            {
+                <p style="color: red;">@ViewBag.Error</p>
+            }
+
+            <form action="/Login/LoginEmpleado" method="post">
+                <div class="form-group">
+                    <label for="usuario">Usuario:</label>
+                    <input type="text" id="usuario" name="usuario" class="form-control" required />
+                </div>
+                <div class="form-group">
+                    <label for="contraseña">Contraseña:</label>
+                    <input type="password" id="contraseña" name="contraseña" class="form-control" required />
+                </div>
+                <button type="submit" class="btn btn-primary btn-block mt-3">Iniciar sesión</button>
+            </form>
+        </div>
+    </div>
+
+    <footer class="text-center">
+        <p>&copy; 2024 The Temper Trap - Sistema de Pedidos</p>
+    </footer>
+</body>
+</html>

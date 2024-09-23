@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Menú del Cliente";
+}
+
+<h2 class="text-center" style="color: #e65100;">Menú del Cliente</h2>
+<p class="text-center" style="color: #4e342e;">Selecciona los platos que deseas ordenar:</p>
+
+<form id="menuForm" action="/Cliente/ResumenCompra" method="post">
+    <div class="row justify-content-center">
+        <!-- Plato 1 -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm" style="background-color: #fff3e0; border: 1px solid #ffcc80; border-radius: 10px;">
+                <img src="~/Images/plato1.png" class="card-img-top" alt="Plato 1" style="border-bottom: 1px solid #ff7043; width: 200px; display: block; margin-left: auto; margin-right: auto;">
+                <div class="card-body">
+                    <h5 class="card-title" style="color: #e65100;">Plato 1</h5>
+                    <p class="card-text" style="color: #4e342e;">$10.00</p>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="Plato 1" name="platos" id="plato1">
+                        <label class="form-check-label" for="plato1" style="color: #ff7043;">
+                            Seleccionar
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Plato 2 -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm" style="background-color: #fff3e0; border: 1px solid #ffcc80; border-radius: 10px;">
+                <img src="~/Images/plato2.png" class="card-img-top" alt="Plato 2" style="border-bottom: 1px solid #ff7043; width: 200px; display: block; margin-left: auto; margin-right: auto;">
+                <div class="card-body">
+                    <h5 class="card-title" style="color: #e65100;">Plato 2</h5>
+                    <p class="card-text" style="color: #4e342e;">$15.00</p>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="Plato 2" name="platos" id="plato2">
+                        <label class="form-check-label" for="plato2" style="color: #ff7043;">
+                            Seleccionar
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Plato 3 -->
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm" style="background-color: #fff3e0; border: 1px solid #ffcc80; border-radius: 10px;">
+                <img src="~/Images/plato3.png" class="card-img-top" alt="Plato 3" style="border-bottom: 1px solid #ff7043; width: 200px; display: block; margin-left: auto; margin-right: auto;">
+                <div class="card-body">
+                    <h5 class="card-title" style="color: #e65100;">Plato 3</h5>
+                    <p class="card-text" style="color: #4e342e;">$20.00</p>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" value="Plato 3" name="platos" id="plato3">
+                        <label class="form-check-label" for="plato3" style="color: #ff7043;">
+                            Seleccionar
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-lg mt-3" style="background-color: #ff7043; border-color: #ff7043; color: white;">Proceder al Pago</button>
+    </div>
+</form>
+
+<footer class="text-center mt-5">
+    <p>&copy; 2024 - Mi aplicación ASP.NET</p>
+</footer>
+
+<style>
+    body {
+        background-color: #fffde7; 
+    }
+
+    .card {
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+    .btn:hover {
+        background-color: #ff5722;
+    }
+</style>

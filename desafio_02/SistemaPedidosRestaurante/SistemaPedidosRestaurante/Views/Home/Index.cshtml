@@ -1,0 +1,73 @@
+﻿@{
+    Layout = null; 
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bienvenido | Sistema de Pedidos</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #f5f5dc; 
+        }
+
+        .login-card {
+            background-color: #fff3e0; 
+            border: 1px solid #e65100; 
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #d84315; 
+        }
+
+        .btn-primary {
+            background-color: #ff7043; 
+            border-color: #e64a19;
+        }
+
+            .btn-primary:hover {
+                background-color: #d84315; 
+                border-color: #bf360c;
+            }
+
+        .btn-success {
+            background-color: #66bb6a; 
+            border-color: #43a047;
+        }
+
+            .btn-success:hover {
+                background-color: #388e3c; 
+                border-color: #2e7d32;
+            }
+
+        footer {
+            margin-top: 20px;
+            color: #6d4c41; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container d-flex justify-content-center align-items-center" style="height: 100vh;">
+        <div class="login-card">
+            <h1 class="text-center">Bienvenido a The Temper Trap</h1>
+            <h2 class="text-center">Sistema de Pedidos Online</h2>
+            <p class="text-center">Por favor, selecciona cómo deseas iniciar sesión:</p>
+
+            <div class="d-grid gap-3 mt-4">
+                <a href="@Url.Action("LoginCliente", "Login")" class="btn btn-primary btn-lg">Iniciar sesión como Cliente</a>
+                <a href="@Url.Action("LoginEmpleado", "Login")" class="btn btn-success btn-lg">Iniciar sesión como Empleado</a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center">
+        <p>&copy; 2024 The Temper Trap - Sistema de Pedidos</p>
+    </footer>
+</body>
+</html>

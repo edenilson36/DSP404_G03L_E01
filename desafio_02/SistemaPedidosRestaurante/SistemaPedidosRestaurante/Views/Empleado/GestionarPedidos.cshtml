@@ -1,0 +1,69 @@
+﻿@model List<SistemaPedidosRestaurante.Models.Pedido>
+
+<h2>Gestión de Pedidos</h2>
+
+<p>Los siguientes pedidos están listos para gestionar:</p>
+
+<div class="row">
+    @foreach (var pedido in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm" style="background-color: #e8f5e9; border: 1px solid #2e7d32; border-radius: 10px;">
+                <div class="card-body">
+                    <h5 class="card-title" style="color: #2e7d32;">Pedido @pedido.PedidoId</h5>
+                    <p class="card-text">
+                        <strong>Platos:</strong> @string.Join(", ", pedido.Platos.Select(p => p.Nombre)) <br />
+                        <strong>Total:</strong> $@pedido.Total <br />
+                        <strong>Estado:</strong> @pedido.Estado <br />
+                        <strong>Comentarios:</strong> @pedido.Comentarios
+                    </p>
+                    <form action="/Empleado/ActualizarPedido" method="post">
+                        <input type="hidden" name="pedidoId" value="@pedido.PedidoId" />
+                        <div class="form-group">
+                            <label for="estado" style="color: #1b5e20;">Actualizar Estado</label>
+                            <select name="estado" class="form-control" style="border-color: #1b5e20;">
+                                <option value="Aceptado" @(pedido.Estado == "Aceptado" ? "selected" : "")>Aceptado</option>
+                                <option value="En proceso de elaborar" @(pedido.Estado == "En proceso de elaborar" ? "selected" : "")>En proceso de elaborar</option>
+                                <option value="Entregado al repartidor" @(pedido.Estado == "Entregado al repartidor" ? "selected" : "")>Entregado al repartidor</option>
+                                <option value="Entregado al cliente" @(pedido.Estado == "Entregado al cliente" ? "selected" : "")>Entregado al cliente</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="comentarios" style="color: #1b5e20;">Añadir Comentarios</label>
+                            <textarea name="comentarios" class="form-control" style="border-color: #2e7d32;">@pedido.Comentarios</textarea>
+                        </div>
+                        <button type="submit" class="btn btn-success" style="background-color: #388e3c; border-color: #2e7d32;">Actualizar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<footer class="text-center mt-5">
+    <p>&copy; 2024 The Temper Trap - Sistema de Pedidos</p>
+</footer>
+
+<style>
+    body {
+        background-color: #f1f8e9; 
+    }
+
+    h2 {
+        color: #1b5e20; 
+    }
+
+    .btn-success:hover {
+        background-color: #2e7d32; 
+        border-color: #1b5e20;
+    }
+
+    .card {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        transition: all 0.3s ease;
+    }
+
+        .card:hover {
+            transform: scale(1.03); 
+        }
+</style>

@@ -1,0 +1,136 @@
+﻿@{
+    ViewBag.Title = "Resumen de la Compra";
+}
+
+<style>
+    body {
+        background-color: #F8F3E1; 
+        font-family: 'Open Sans', sans-serif; 
+    }
+
+    h2 {
+        color: #E65100; 
+        font-size: 28px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 18px;
+        color: #4E342E; 
+        text-align: center;
+    }
+
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    li {
+        font-size: 20px;
+        color: #FF7043;
+        margin-bottom: 10px;
+    }
+
+    .card {
+        background-color: #FFF; 
+        border: 1px solid #FF7043; 
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        max-width: 600px;
+        margin: 0 auto 20px; 
+    }
+
+    h4 {
+        font-size: 22px;
+        color: #4E342E; 
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .btn-primary {
+        background-color: #FF7043; 
+        border-color: #E64A19; 
+        color: white;
+        padding: 10px 20px;
+        font-size: 18px;
+        display: block;
+        width: 50%;
+        margin: 0 auto;
+        border-radius: 6px;
+        text-align: center;
+    }
+
+        .btn-primary:hover {
+            background-color: #E64A19; 
+            border-color: #D84315;
+        }
+
+    .form-check {
+        margin-bottom: 10px;
+        text-align: left;
+        display: inline-block;
+        width: 45%;
+        margin: 10px;
+    }
+
+    .form-check-input {
+        margin-right: 10px;
+    }
+
+    .form-check-label {
+        font-size: 18px;
+        color: #4E342E;
+    }
+</style>
+
+<div class="card">
+    <h2>Resumen de la Compra</h2>
+
+    <p>Estos son los platos que seleccionaste:</p>
+
+    <ul>
+        @foreach (var plato in ViewBag.PlatosSeleccionados)
+        {
+            <li>@plato</li>
+        }
+    </ul>
+
+    <h4>Total: $<span id="total">@CalcularTotal(ViewBag.PlatosSeleccionados)</span></h4>
+
+    <form action="/Cliente/ConfirmarPago" method="post">
+        @foreach (var plato in ViewBag.PlatosSeleccionados)
+        {
+            <input type="hidden" name="platosSeleccionados" value="@plato" />
+        }
+
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="formaPago" value="Tarjeta" required>
+            <label class="form-check-label">Tarjeta de crédito/débito</label>
+        </div>
+
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="formaPago" value="Efectivo" required>
+            <label class="form-check-label">Efectivo</label>
+        </div>
+
+        <button type="submit" class="btn-primary">Confirmar Pedido</button>
+    </form>
+</div>
+
+@functions {
+    // Función para calcular el total en Razor
+    decimal CalcularTotal(string[] platosSeleccionados)
+    {
+        decimal total = 0;
+        foreach (var plato in platosSeleccionados)
+        {
+            if (plato == "Plato 1") { total += 10; }
+            if (plato == "Plato 2") { total += 15; }
+            if (plato == "Plato 3") { total += 20; }
+        }
+        return total;
+    }
+}
