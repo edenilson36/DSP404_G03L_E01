@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitioWeb10_MG220764", "SitioWeb10_MG220764\SitioWeb10_MG220764.csproj", "{718AC116-E502-4472-8772-B5AAB01D319D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718AC116-E502-4472-8772-B5AAB01D319D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718AC116-E502-4472-8772-B5AAB01D319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718AC116-E502-4472-8772-B5AAB01D319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718AC116-E502-4472-8772-B5AAB01D319D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {151F02E3-7AB9-4D3D-BE86-F8A68FB84BF9}
+	EndGlobalSection
+EndGlobal
