@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\VerContacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VerContacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\AgregarContacto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgregarContacto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\Login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerContacto.aspx",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\VerContacto.aspx",
+              "RelativeDocumentMoniker": "VerContacto.aspx",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\VerContacto.aspx",
+              "RelativeToolTip": "VerContacto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-28T05:01:03.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarContacto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\AgregarContacto.aspx.cs",
+              "RelativeDocumentMoniker": "AgregarContacto.aspx.cs",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\AgregarContacto.aspx.cs",
+              "RelativeToolTip": "AgregarContacto.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:58:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Documentos\\Guias de DASP C#\\Guia11\\WebService\\WebService\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Login.aspx.designer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwEYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:48:10.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
