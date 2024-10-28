@@ -1,0 +1,31 @@
+﻿@model IEnumerable<SistemaVentaEntradasApp.Models.Concierto>
+
+<h2>Lista de Conciertos</h2>
+
+<table class="table">
+    <tr>
+        <th>Nombre</th>
+        <th>Fecha</th>
+        <th>Lugar</th>
+        <th>Acciones</th>
+    </tr>
+
+    @foreach (var concierto in Model)
+    {
+        <tr>
+            <td>@concierto.Nombre</td>
+            <td>@concierto.Fecha.ToShortDateString()</td>
+            <td>@concierto.Lugar</td>
+            <td>
+                @Html.ActionLink("Detalles", "Details", new { id = concierto.ConciertoID }) |
+                @Html.ActionLink("Editar", "Edit", new { id = concierto.ConciertoID }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id = concierto.ConciertoID }) |
+              
+            </td>
+        </tr>
+    }
+</table>
+
+<p>
+    @Html.ActionLink("Crear nuevo concierto", "Create")
+</p>

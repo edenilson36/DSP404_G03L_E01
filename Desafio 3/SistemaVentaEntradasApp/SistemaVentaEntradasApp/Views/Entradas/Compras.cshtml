@@ -1,0 +1,24 @@
+﻿@model IEnumerable<SistemaVentaEntradasApp.Models.Entrada>
+
+<h2>Compras de Eventos</h2>
+
+<table class="table">
+    <tr>
+        <th>Evento</th>
+        <th>Localidad</th>
+        <th>Fecha de Compra</th>
+        <th>Cantidad</th>
+        <th>Total Pagado</th>
+    </tr>
+
+    @foreach (var compra in Model)
+    {
+        <tr>
+            <td>@compra.Concierto.Nombre</td>
+            <td>@compra.Localidad.TipoLocalidad</td>
+            <td>@compra.FechaCompra.ToShortDateString()</td>
+            <td>@compra.Cantidad</td>
+            <td>@compra.TotalPago</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<SistemaVentaEntradasApp.Models.Entrada>
+
+<h2>Historial de Compras</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Concierto</th>
+            <th>Localidad</th>
+            <th>Fecha de Compra</th>
+            <th>Cantidad</th>
+            <th>Total Pagado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var entrada in Model)
+        {
+            <tr>
+                <td>@entrada.Concierto.Nombre</td>
+                <td>@entrada.Localidad.TipoLocalidad</td>
+                <td>@entrada.FechaCompra.ToString("dd/MM/yyyy")</td>
+                <td>@entrada.Cantidad</td>
+                <td>@entrada.TotalPago.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Volver al Dashboard", "Dashboard", "Home", new { area = "" }, new { @class = "btn btn-primary" })
+</p>

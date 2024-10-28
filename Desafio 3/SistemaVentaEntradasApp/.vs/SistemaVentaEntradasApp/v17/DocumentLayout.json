@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\controllers\\conciertoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\controllers\\conciertoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\controllers\\entradascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\models\\concierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\models\\concierto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|c:\\users\\roberto\\documents\\dsp\\desafio 3\\sistemaventaentradasapp\\sistemaventaentradasapp\\views\\conciertos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\conciertos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\shared\\dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\shared\\dashboardlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\entradas\\compras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\entradas\\compras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\cuenta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\localidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\localidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\localidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\localidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\entradas\\historico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\entradas\\historico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\entradas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\entradas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\models\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\models\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\models\\localidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\models\\localidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\controllers\\localidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\controllers\\localidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\conciertos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\conciertos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\conciertos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\conciertos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\conciertos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\conciertos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\conciertos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\conciertos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\views\\cuenta\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\views\\cuenta\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\sistemaventaentradasapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52081431-3E02-4F33-87AF-2486AF5ABEC3}|SistemaVentaEntradasApp\\SistemaVentaEntradasApp.csproj|solutionrelative:sistemaventaentradasapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Conciertos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Index.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Conciertos\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:12:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Localidades\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Localidades\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Localidades\\Index.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Localidades\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T02:56:13.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T00:26:01.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:02:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concierto.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Concierto.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Models\\Concierto.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Concierto.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Models\\Concierto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:00:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:25:06.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConciertosController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\ConciertosController.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Controllers\\ConciertosController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\ConciertosController.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Controllers\\ConciertosController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwGgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:07:13.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Controllers\\CuentaController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:19:22.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntradasController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\EntradasController.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Controllers\\EntradasController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\EntradasController.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Controllers\\EntradasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwE8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:14:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T00:36:32.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Compras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Entradas\\Compras.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Entradas\\Compras.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Entradas\\Compras.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Entradas\\Compras.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:37:04.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Entradas\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Entradas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Entradas\\Create.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Entradas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T02:15:08.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Cuenta\\Login.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Cuenta\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Cuenta\\Login.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Cuenta\\Login.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T00:24:42.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Shared\\DashboardLayout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Shared\\DashboardLayout.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Shared\\DashboardLayout.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Shared\\DashboardLayout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T05:06:56.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T05:19:41.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Localidad.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Localidad.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Models\\Localidad.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Localidad.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Models\\Localidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:00:51.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Localidades\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Localidades\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Localidades\\Create.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Localidades\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T02:40:15.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Historico.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Entradas\\Historico.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Entradas\\Historico.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Entradas\\Historico.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Entradas\\Historico.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:46:33.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Entrada.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Models\\Entrada.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Entrada.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Models\\Entrada.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:01:17.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocalidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\LocalidadesController.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Controllers\\LocalidadesController.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Controllers\\LocalidadesController.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Controllers\\LocalidadesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:38:53.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:59:48.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Cuenta\\Register.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Cuenta\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Cuenta\\Register.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Cuenta\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T00:21:35.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Conciertos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Edit.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Conciertos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:12:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Conciertos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Delete.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Conciertos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:14:15.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Conciertos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Create.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Conciertos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:12:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Details.cshtml",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Views\\Conciertos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Views\\Conciertos\\Details.cshtml",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Views\\Conciertos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:13:57.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\packages.config",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\packages.config",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\packages.config",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T00:05:35.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Web.config",
+              "RelativeDocumentMoniker": "SistemaVentaEntradasApp\\Web.config",
+              "ToolTip": "C:\\Users\\Roberto\\Documents\\DSP\\Desafio 3\\SistemaVentaEntradasApp\\SistemaVentaEntradasApp\\Web.config",
+              "RelativeToolTip": "SistemaVentaEntradasApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T23:58:28.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

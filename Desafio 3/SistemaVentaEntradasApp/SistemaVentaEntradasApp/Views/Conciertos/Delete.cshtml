@@ -1,0 +1,23 @@
+﻿@model SistemaVentaEntradasApp.Models.Concierto
+
+<h2>Eliminar Concierto</h2>
+
+<p>¿Estás seguro de que deseas eliminar este concierto?</p>
+
+<div>
+    <h4>@Model.Nombre</h4>
+    <dl class="dl-horizontal">
+        <dt>Fecha</dt>
+        <dd>@Model.Fecha.ToShortDateString()</dd>
+
+        <dt>Lugar</dt>
+        <dd>@Model.Lugar</dd>
+    </dl>
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken() <!-- Agrega esta línea para el token antifalsificación -->
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    @Html.ActionLink("Cancelar", "Index")
+}

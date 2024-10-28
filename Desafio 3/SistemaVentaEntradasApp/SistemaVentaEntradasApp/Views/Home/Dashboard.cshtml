@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/DashboardLayout.cshtml";
+}
+
+@model IEnumerable<SistemaVentaEntradasApp.Models.Concierto>
+
+<h2>Bienvenido al Dashboard</h2>
+
+
+
+<h3>Lista de Eventos</h3>
+
+<table class="table">
+    <tr>
+        <th>Nombre</th>
+        <th>Fecha</th>
+        <th>Lugar</th>
+        <th>Acciones</th>
+    </tr>
+
+    @foreach (var concierto in Model)
+    {
+        <tr>
+            <td>@concierto.Nombre</td>
+            <td>@concierto.Fecha.ToShortDateString()</td>
+            <td>@concierto.Lugar</td>
+            <td>
+                @Html.ActionLink("Comprar Entradas", "Create", "Entradas", new { conciertoId = concierto.ConciertoID }, null)
+            </td>
+        </tr>
+    }
+</table>

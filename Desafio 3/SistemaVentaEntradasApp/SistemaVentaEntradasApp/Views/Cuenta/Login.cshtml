@@ -1,0 +1,35 @@
+﻿@model SistemaVentaEntradasApp.Models.Usuario
+
+@{
+    ViewBag.Title = "Iniciar Sesión";
+}
+
+<h2>Iniciar Sesión</h2>
+
+@using (Html.BeginForm("Login", "Cuenta", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Correo">Correo Electrónico</label>
+        @Html.TextBox("correo", null, new { @class = "form-control", placeholder = "Ingresa tu correo" })
+    </div>
+
+    <div class="form-group">
+        <label for="Contrasena">Contraseña</label>
+        @Html.Password("contrasena", null, new { @class = "form-control", placeholder = "Ingresa tu contraseña" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Ingresar</button>
+}
+
+<p>
+    ¿No tienes una cuenta? @Html.ActionLink("Regístrate aquí", "Register", "Cuenta")
+</p>
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <div class="alert alert-danger">
+        @ViewBag.Error
+    </div>
+}

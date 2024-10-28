@@ -1,0 +1,23 @@
+﻿@model IEnumerable<SistemaVentaEntradasApp.Models.Localidad>
+
+<h2>Lista de Localidades</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tipo de Localidad</th>
+            <th>Precio</th>
+            <th>Cantidad Disponible</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var localidad in Model)
+        {
+            <tr>
+                <td>@localidad.TipoLocalidad</td>
+                <td>@localidad.Precio</td>
+                <td>@localidad.CantidadDisponible</td>
+            </tr>
+        }
+    </tbody>
+</table>

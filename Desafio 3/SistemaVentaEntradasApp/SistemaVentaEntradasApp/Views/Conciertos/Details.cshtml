@@ -1,0 +1,23 @@
+﻿@model SistemaVentaEntradasApp.Models.Concierto
+
+<h2>Detalles del Concierto</h2>
+
+<div>
+    <h4>Concierto</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Nombre</dt>
+        <dd class="col-sm-10">@Model.Nombre</dd>
+
+        <dt class="col-sm-2">Fecha</dt>
+        <dd class="col-sm-10">@Model.Fecha.ToShortDateString()</dd>
+
+        <dt class="col-sm-2">Lugar</dt>
+        <dd class="col-sm-10">@Model.Lugar</dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.ConciertoID }) |
+    @Html.ActionLink("Volver a la lista", "Index")
+</p>

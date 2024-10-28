@@ -1,0 +1,19 @@
+﻿@model SistemaVentaEntradasApp.Models.Usuario
+
+@using (Html.BeginForm("Register", "Cuenta", FormMethod.Post))
+{
+    <h2>Registro</h2>
+    <div>
+        <label>Nombre:</label>
+        @Html.TextBoxFor(m => m.Nombre)
+    </div>
+    <div>
+        <label>Correo:</label>
+        @Html.TextBoxFor(m => m.Correo)
+    </div>
+    <div>
+        <label>Contraseña:</label>
+        @Html.PasswordFor(m => m.Contrasena)
+    </div>
+    <button type="submit">Registrarse</button>
+}

@@ -1,0 +1,38 @@
+﻿@model SistemaVentaEntradasApp.Models.Localidad
+
+@{
+    ViewBag.Title = "Crear Localidad";
+}
+
+<h2>Crear Localidad</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label>Concierto</label>
+        @Html.DropDownList("ConciertoID", null, "Selecciona un concierto", new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label>Tipo de Localidad</label>
+        @Html.TextBoxFor(model => model.TipoLocalidad, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label>Precio</label>
+        @Html.TextBoxFor(model => model.Precio, new { @class = "form-control", type = "number", step = "0.01" })
+    </div>
+
+    <div class="form-group">
+        <label>Cantidad Disponible</label>
+        @Html.TextBoxFor(model => model.CantidadDisponible, new { @class = "form-control", type = "number", min = "1" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+}
+
+<p>
+    @Html.ActionLink("Volver a la lista", "Index")
+</p>
